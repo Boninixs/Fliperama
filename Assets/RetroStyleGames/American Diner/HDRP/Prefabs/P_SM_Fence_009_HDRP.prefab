@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6678841462932999000
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 368312171840380056, guid: a32da37a6275fd5438c5439804bc4cef, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 368312171840380056, guid: a32da37a6275fd5438c5439804bc4cef, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 368312171840380056, guid: a32da37a6275fd5438c5439804bc4cef, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 368312171840380056, guid: a32da37a6275fd5438c5439804bc4cef, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 368312171840380056, guid: a32da37a6275fd5438c5439804bc4cef, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 368312171840380056, guid: a32da37a6275fd5438c5439804bc4cef, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 368312171840380056, guid: a32da37a6275fd5438c5439804bc4cef, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 368312171840380056, guid: a32da37a6275fd5438c5439804bc4cef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 368312171840380056, guid: a32da37a6275fd5438c5439804bc4cef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 368312171840380056, guid: a32da37a6275fd5438c5439804bc4cef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5815722914592047242, guid: a32da37a6275fd5438c5439804bc4cef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ab67914bfc0f5df4bb383cef8549423d, type: 2}
+    - target: {fileID: 5856954680639759996, guid: a32da37a6275fd5438c5439804bc4cef, type: 3}
+      propertyPath: m_Name
+      value: P_SM_Update_Fence_009_v001_HDRP
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a32da37a6275fd5438c5439804bc4cef, type: 3}
